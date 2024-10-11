@@ -6,6 +6,8 @@
     <userId>66353199620288512</userId>
 </follow_challenge>
 -->
+This message is used to verify that this feed (feedId:67478606812591104) belongs to me (userId:66353199620288512). Join me in enjoying the next generation information browser https://follow.is.
+
 <!--
 **ovels/ovels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
